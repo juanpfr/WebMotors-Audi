@@ -2,6 +2,13 @@
 
 Este é um aplicativo desktop simples feito com [Flet](https://flet.dev) em Python para cadastrar, visualizar, editar e remover informações de carros da marca **Audi**, incluindo a foto de cada veículo.
 
+## 📚 Sobre o Projeto
+
+Este projeto foi desenvolvido como uma **atividade acadêmica**. Os autores do trabalho são:
+
+- **Juan Pedro**
+- **Matheus Barros**
+
 ## 📸 Funcionalidades
 
 - Cadastro de modelos da Audi com:
@@ -34,7 +41,7 @@ Este é um aplicativo desktop simples feito com [Flet](https://flet.dev) em Pyth
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/cadastro-audi.git
+git clone https://github.com/juanpfr/WebMotors-Audi
 cd cadastro-audi
 ```
 
